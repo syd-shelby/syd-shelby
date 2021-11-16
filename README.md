@@ -4,9 +4,8 @@
       I have touched a lot of different tech so feel free to reachout to me about specifics, but my biggest comfort zones are Php, C++, and Python.
 - ✊ I harbor a huge passion for Social Justice, Inclusion, Equity in Diversity. I have worked as a facilitator in D&I spaces, a mental health advocate, and an
       unofficial advocate for the importance of self work. 
-- 🤝 I'd love to volunteer to help out on some projects. I really want to help make some cool stuff with other people passionate about social issues. Please
-      reachout if you have on going projects you need help with or if you have an idea for future ones. Heck, even if you are looking for community with other
-      Social Justice inclined tech nerds just looking to make the world a better place.
+- 🤝 I'd love to volunteer to help out on some projects. I really want to help make some cool stuff with other people passionate about social issues. (Plus my             github is woefully empty) Please reachout if you have on going projects you need help with or if you have an idea for future ones. Heck, even if you are 
+      looking for community with other Social Justice inclined tech nerds just looking to make the world a better place.
 - 📫 sas81398@gmail.com
 
 <!---
